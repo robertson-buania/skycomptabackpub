@@ -1,0 +1,6 @@
+package cd.buania.skycompta.shared.erreur;
+
+public enum SOURCE_ERROR {
+
+     COMPTE_UPDATE, COMPTE_LIST, COMPTE_CREATE, CLASSE_ONE, CLASSE_LIST, CLASSE_CREATE, ECRITURE_CREATE, JOURNAL_CREATE;
+}
